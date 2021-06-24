@@ -3,6 +3,8 @@
 Madgwick FilterとMPU9250 digital motion processing (DMP)を利用した姿勢推定デモです。  
 シリアル経由で姿勢データを送信、Processingで可視化します。  
 
+![screenshot](./viewer/screenshot.gif)
+
 ## Arduino依存ライブラリ
 
 ### SparkFun MPU-9250 Digital Motion Processor (DMP) Arduino Library
